@@ -164,7 +164,7 @@ public class App{
         subCatPart.add(table);
 
     }
-
+//si tla 
     private static void createList(Section subCatPart) {
         List list = new List(true, false, 10);
         list.add(new ListItem("First point"));
@@ -176,6 +176,7 @@ public class App{
     private static void addEmptyLine(Paragraph paragraph, int number) {
     	
         for (int i = 0; i < number; i++) {
+            paragraph.add(new Paragraph(" "));
             paragraph.add(new Paragraph(" "));
         }
     }
