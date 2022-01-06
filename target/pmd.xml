@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.29.0" timestamp="2022-01-06T15:26:21.500">
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.29.0" timestamp="2022-01-06T15:52:56.427">
 <file name="C:\Users\Juve\eclipse-workspace\FirstPdf\src\main\java\fr\istic\miage\m1\juvenal\FirstPdf\App.java">
 <violation beginline="35" endline="35" begincolumn="17" endcolumn="26" rule="UnusedPrivateField" ruleset="Best Practices" package="fr.istic.miage.m1.juvenal.FirstPdf" class="App" variable="sansValeur" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
 Avoid unused private fields such as 'sansValeur'.
